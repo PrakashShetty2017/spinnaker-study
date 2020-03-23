@@ -18,6 +18,7 @@ spec:
                 app: gothic-intent-microservice
                 run: gothic-intent-microservice
                 source: demo
+                
         spec:
             containers:
                 -   image: 219099013464.dkr.ecr.us-west-2.amazonaws.com/gothic-intent-microservice
